@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-
+pi=3.1415926
 # generate heat plot (image-like) for gaussian
 def plot_heat(mean,sig):
     plot_delta = 0.025
